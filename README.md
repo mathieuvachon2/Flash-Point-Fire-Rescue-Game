@@ -1,1 +1,5 @@
-# f2018-group12
+# Flash Point Fire Rescue Game
+Bonus Roles: 
+
+Structural Engineer, Dog, Veteran, Pyromancer
+
